@@ -1,6 +1,5 @@
-# e-commerce
+# e-commerce 3/5
 
-Application 3 of 5 skill showcases.
 >With advancements in technology and with the popularity of the internet, more and more people are turning to the web for a variety of purposes. The internet is no longer limited to searching information or connecting with people but is a platform where you can also buy and sell products. An ecommerce website is a website which allows your business to sell products and services to their online audience. These days, an increasing number of consumers prefer making most of their purchases online and in such a scenario, having an ecommerce website for your business is the need of the hour. The following is a list of the top 6 reasons to have an ecommerce platform:
 
 1. Wider customer reach-when you sell a product or service through a national or global platform of an ecommerce website, then you tend to reach out to a much wider audience as compared to traditional commerce methods. This gives you a broader audience and hence possibility of better overall sales.
