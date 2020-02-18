@@ -56,9 +56,9 @@ header .site-title {
 .navbar-nav .nav-item .nav-link {
     padding: 0 1.3em;
 }
-.navbar-nav .basket-icon {
+.navbar-nav .basket-icon,
+.navbar-nav .search-icon {
     margin-right: 6.5rem !important;
-
 }
 /* Slider One */
 .site-slider {
