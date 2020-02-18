@@ -6,10 +6,14 @@
 [DeltaDecisionsAdmin](https://www.deltadecisions.com/ecommerce/top-5-reasons-to-have-an-ecommerce-website-for-your-business.html) 
 ## [Try it yourself!](https://fkarticuno.github.io/e-commerce/) 
 
-![image](https://fkarticuno.github.io/CodingPortfolio/Assets/Images/09.png)
+![image](https://fkarticuno.github.io/CodingPortfolio/Assets/Images/00.png)
 
 ## Built With
+* [Jquery](https://jquery.com/) - Fast, small, and feature-rich JavaScript library
+* [Slick](https://kenwheeler.github.io/slick/) - Carousel logic and decoration
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - CSS framework
+* [Google Fonts](https://fonts.google.com/?query=sofia&selection.family=Anton|Gugi|Lato|Roboto|Sofia) - Fonts
+* [Font Awesome](https://fontawesome.com/) - Icons 
 
 ## Authors
 
