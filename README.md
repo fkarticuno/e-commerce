@@ -1,3 +1,3 @@
 # e-commerce
 
-<iframe src="https://www.youtube.com/watch?v=36jRXMsIFuA" height="200" width="300"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36jRXMsIFuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
