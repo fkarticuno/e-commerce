@@ -17,8 +17,9 @@
 
 ## Authors
 
-See the list of [contributors](https://github.com/fkarticuno/e-commerce/graphs/contributors) who participated in this project along with individual commit history. 
-[tutorial](https://www.youtube.com/embed/36jRXMsIFuA)
+See the list of [contributors](https://github.com/fkarticuno/e-commerce/graphs/contributors) who participated in this project along with individual commit history.
+
+[Tutorial](https://www.youtube.com/embed/36jRXMsIFuA)
 ## Planned updates
 
 New revisions of Portfolio will contain these example apps to showcase my skills in development
@@ -28,8 +29,8 @@ New revisions of Portfolio will contain these example apps to showcase my skills
 4. [Personal Portfolio](https://github.com/fkarticuno/CodingPortfolio)
 5. [Simple game](#)
 6. Planning to include in this project:
-* [MongoDB](https://www.mongodb.com/) - NoSQL Database
-* [Express.js](https://expressjs.com/) - Node.js framework
-* [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - JavaScript runtime
-* [NPM](https://www.npmjs.com/) - Dependency management
+  * [MongoDB](https://www.mongodb.com/) - NoSQL Database
+  * [Express.js](https://expressjs.com/) - Node.js framework
+  * [React.js](https://reactjs.org/) - MVC front-end framework 
+  * [Node.js](https://nodejs.org/en/) - JavaScript runtime
+  * [NPM](https://www.npmjs.com/) - Dependency management
